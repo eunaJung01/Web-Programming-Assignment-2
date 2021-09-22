@@ -1,0 +1,15 @@
+@import "reset.css";
+@import "menu.css";
+@import url(http:spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+body {
+  background-image: url("../img/background-pattern.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #ededed;
+  display: flex;
+  justify-content: center;
+  font-family: "Spoqa Han Sans Neo", "sans-serif";
+  height: 100vh;
+  overflow: hidden;
+}
